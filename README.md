@@ -1,4 +1,4 @@
-This is a nodejs express boilerplate
+Node boilerplate
 
 Run the follow command to install all required libs.
 ```bash
